@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Flutter and Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ohlavrac?tab=repositories](https://github.com/Ohlavrac?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Ohlavrac?tab=repositories)
 
 - 💬 Ask me about **anything tech related, I am happy to help;**
 
 - 📫 How to reach me **joaovicrcarvalho@gmail.com**
 
-- 📄 Know about my experiences [https://ohlavrac.github.io/](https://ohlavrac.github.io/)
+- 📄 Know about my experiences [MyPage](https://ohlavrac.github.io/)
 
 - ⚡ Fun fact **I like to play random games and draw**
 
