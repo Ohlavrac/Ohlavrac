@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Victor Carvalho</h1>
 <h3 align="center">I am João Victor, student of computer science at the state university of Piaui.</h3>
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=790b7611191017554e60c31137c7ddb7df05f8fc3666db0e&rid=giphy.gif&ct=s" width="360px"/>
-
 - 🌱 I’m currently learning **Flutter and NodeJS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Ohlavrac?tab=repositories)
